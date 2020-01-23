@@ -8,7 +8,7 @@ you can use your computer to switch on/off the appliances like the fan, heater ,
 
 - to receive the data from the raspberry into your computer , setup the ip destination (computer)in the send_thread_temp file
 
-![](captureipAdd.PNG)
+![](CaptureipAdd.PNG)
 
 - in the raspberry  pi lunch the pi_server scripts using the command python3 pi_server.py
 
