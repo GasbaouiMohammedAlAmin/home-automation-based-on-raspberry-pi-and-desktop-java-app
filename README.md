@@ -4,7 +4,7 @@ you can use your computer to switch on/off the appliances like the fan, heater ,
 - to run the jar file in the previous path you need to install java runtime environment
 - you should setup the ip of destination (raspberry pi)
 
-![](desktop frame home auto.PNG)
+![](desktop_app.PNG)
 
 - to receive the data from the raspberry into your computer , setup the ip destination (computer)in the send_thread_temp file
 
