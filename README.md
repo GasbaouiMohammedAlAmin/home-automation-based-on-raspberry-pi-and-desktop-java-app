@@ -14,5 +14,5 @@ you can use your computer to switch on/off the appliances like the fan, heater ,
 
 ![](Capture3.PNG)
 
-demonstration video :
-website bloog :
+- demonstration video :
+- website bloog :
