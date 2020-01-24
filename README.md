@@ -12,3 +12,5 @@ you can use your computer to switch on/off the appliances like the fan, heater ,
 
 - in the raspberry  pi lunch the pi_server scripts using the command python3 pi_server.py
 
+![](Capture3.PNG)
+
